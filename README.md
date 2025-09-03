@@ -1,63 +1,36 @@
-# upgraded-parakeet
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# website for design agency called AIOS
-- this site is to showcase our work, and get clients to contact us.
-it must be modern, FULLY RESPONSIVE.
+## Getting Started
 
-# general info of the business that the site will need:
-- # AIOS (All In One Solutions) - Overview
+First, run the development server:
 
-## Business Overview
-AIOS (All In One Solutions) is a soon-to-be registered private company (Pty Ltd) based in South Africa.  
-We specialize in **custom web design, development, e-commerce solutions, and branding** for startups and small to medium-sized businesses.  
-Our mission is to **empower entrepreneurs** with stunning, functional, and affordable websites and brand identities that support growth.  
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-We position ourselves as a **strategic partner** rather than just a service provider, offering transparent pricing, outcome-driven packages, and ongoing support.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Services
-- **Custom Website Design & Development**  
-- **E-commerce Solutions** (online stores, payment integration)  
-- **Graphic Design & Branding**  
-- **Website Maintenance & Support**  
-- **Design Day & Quick Fix Sessions**  
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
-## Pricing & Payment Policy
-- **Static One Page Site**: R500  
-- **Launch-Ready Starter Site** (1–3 pages): R3,000 – R5,000  
-- **Client Magnet Website** (4–6 pages, SEO-optimized): R5,000 – R8,500  
-- **Online Store Starter** (up to 10 products): R7,000 – R11,000  
-- **Post-Launch Partner Plan**: R1,000 – R1,800/month  
-- **Design Day / Quick Fix**:  
-  - Full Day (6 hrs): R1,500 – R2,200  
-  - Half Day (3 hrs): R900 – R1,200  
-  - Hourly: R400 – R700  
+To learn more about Next.js, take a look at the following resources:
 
-### Try It Before You Buy It 💡
-We believe in earning your trust first.  
-- We build and deploy a **mockup site or design** for you to test and review.  
-- If you’re happy, you pay a **50% deposit** and we finalize the project.  
-- The **remaining 50%** is paid upon full delivery of the project.  
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-*Payment plans are available.*  
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
----
+## Deploy on Vercel
 
-## Target Market
-- **Primary**: Startups and new entrepreneurs needing their first professional website and brand identity.  
-- **Secondary**: Small to medium-sized businesses with outdated or no online presence.  
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
----
-
-## Unique Selling Proposition
-We don’t just build websites — **we help launch dreams into reality.**  
-Key differentiators include:
-- Outcome-focused packages  
-- Rapid launch option (“One-Week Website”)  
-- **Try It Before You Buy It** policy  
-- Post-launch coaching & support  
-- Branded client portal  
-- Community-focused approach  
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
